@@ -4,6 +4,3 @@ def divide(first, second):
     else:
         print('Результат деления:  ',first / second)
     return
-
-
-# divide(10, 0.00001)
